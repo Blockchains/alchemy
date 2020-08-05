@@ -25,5 +25,9 @@
     "Sort by": "Sort by:",
     "Name": "Name",
     "ETH Balance": "ETH Balance",
-    "Members": "Members"
+    "Members": "Members",
+    "3BoxLoginSuccess": "Logged in to 3Box",
+    "3BoxProfileSuccess": "Profile data saved to 3Box",
+    "Following": "Now following",
+    "UnFollowing": "No longer following"
 }
